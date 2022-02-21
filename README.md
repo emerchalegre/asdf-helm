@@ -16,5 +16,5 @@ Check out the [asdf documentation](https://asdf-vm.com/#/core-manage-versions?id
 
 ```
 % asdf install helm 3.8.0
-Downloading kubectl from Downloading helm from https://get.helm.sh/helm-v3.7.0-linux-amd64.tar.gz
+Downloading kubectl from Downloading helm from https://get.helm.sh/helm-v3.8.0-linux-amd64.tar.gz
 ```
